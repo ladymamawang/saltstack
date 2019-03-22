@@ -4,3 +4,4 @@ saltsatck的YAML文件
 redis 集群 ruby2.3环境
 openstack-compute节点 
 gitlab  
+Nginx

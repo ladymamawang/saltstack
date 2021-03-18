@@ -12,7 +12,7 @@ Jinja2==2.10
 macropy3==1.1.0b2
 MarkupSafe==1.1.1
 paramiko==2.4.2
-Pillow==5.4.1
+Pillow==8.1.1
 pyasn1==0.4.5
 pycparser==2.19
 pyecharts-jupyter-installer==0.0.3

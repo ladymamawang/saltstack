@@ -24,5 +24,5 @@ pytz==2018.9
 requests==2.21.0
 six==1.12.0
 tornado==6.0.1
-urllib3==1.24.1
+urllib3==1.26.5
 wxpy==0.3.9.8
